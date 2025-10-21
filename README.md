@@ -3,7 +3,6 @@
 # **Giovanni Marani**
 
 
-
 ---
 
 
@@ -12,7 +11,6 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
-
 
 
 <div align="center">
@@ -38,7 +36,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://discord.com/users/SEU_DISCORD_AQUI" target="_blank">
+<a href="https://discordapp.com/users/1225913815787372594" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
