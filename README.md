@@ -1,18 +1,16 @@
 <div align="center">
-  
+
+<!-- Imagem de Background -->
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHLK1onukDpIA/profile-displaybackgroundimage-shrink_350_1400/B56Zn4IeoZJQAg-/0/1760804601242?e=1762387200&v=beta&t=wku_h_6et74n0K97xN6xE_7Km7HblX2h_rYffMcOp_A" alt="Background" width="100%"/>
+
 # **Giovanni Marani**
 
-
 ---
-
-
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
-
-
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniMarani&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -21,9 +19,7 @@
 
 ---
 
-
 <div align="center">
-
 <a href="https://www.youtube.com/@Hencens" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
@@ -43,7 +39,6 @@
 <a href="https://www.linkedin.com/in/giovanni-marani-5b7501323/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 </div>
 
 ---
@@ -55,5 +50,3 @@
 </picture>
 
 </div>
-
-
