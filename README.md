@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Imagem de Background -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHLK1onukDpIA/profile-displaybackgroundimage-shrink_350_1400/B56Zn4IeoZJQAg-/0/1760804601242?e=1762387200&v=beta&t=wku_h_6et74n0K97xN6xE_7Km7HblX2h_rYffMcOp_A" alt="Background" width="100%"/>
-
 # **Giovanni Marani**
 
 ---
@@ -42,6 +39,9 @@
 </div>
 
 ---
+<!-- Imagem de Background -->
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHLK1onukDpIA/profile-displaybackgroundimage-shrink_350_1400/B56Zn4IeoZJQAg-/0/1760804601242?e=1762387200&v=beta&t=wku_h_6et74n0K97xN6xE_7Km7HblX2h_rYffMcOp_A" alt="Background" width="100%"/>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniMarani/GiovanniMarani/output/pacman-contribution-graph-dark.svg">
