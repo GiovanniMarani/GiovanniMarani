@@ -48,6 +48,10 @@
 
 ---
 
+<!-- GIF Adicionado -->
+<div align="center">
+  <img src="https://static.planetminecraft.com/files/profile_banner/3839386_1.gif" alt="GIF de banner" height="200px"/>
+</div>
 
 
 </div>
