@@ -2,12 +2,17 @@
   
 # **Giovanni Marani**
 
+
 ---
+
+
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
+
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniMarani&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -16,10 +21,6 @@
 
 ---
 
-
-![Snake animation](https://github.com/GiovanniMarani/GiovanniMarani/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <div align="center">
 
@@ -46,4 +47,9 @@
 </div>
 
 ---
+
+
+
 </div>
+
+
